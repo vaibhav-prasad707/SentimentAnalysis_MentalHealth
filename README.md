@@ -13,13 +13,13 @@ Mental health is an increasingly critical issue in today's fast-paced, interconn
 
 ## Objectives
 
-   -**Public Sentiment Analysis**: Highlight overall public sentiment and mental health trends.
+   - **Public Sentiment Analysis**: Highlight overall public sentiment and mental health trends.
    
-   -**Early Intervention**: Identify concerning patterns to enable timely intervention.
+   - **Early Intervention**: Identify concerning patterns to enable timely intervention.
    
-   -**Awareness Creation**: Promote mental health advocacy and education.
+   - **Awareness Creation**: Promote mental health advocacy and education.
    
-   -**Actionable Insights**: Empower stakeholders like policymakers, healthcare providers, and communities.
+   - **Actionable Insights**: Empower stakeholders like policymakers, healthcare providers, and communities.
 
 Data Privacy and Ethics
 
