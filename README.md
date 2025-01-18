@@ -74,22 +74,22 @@ Privacy is a cornerstone of this initiative. All data is anonymized and processe
 ## Installation
 
    1. Clone the repository:
-'''
-git clone https://github.com/your-username/sentimentanalysis_mentalhealth.git
-'''
+
+`git clone https://github.com/your-username/sentimentanalysis_mentalhealth.git`
+
 
    2. Navigate to the project directory:
-'''
-cd sentimentanalysis_mentalhealth
-'''
+
+`cd sentimentanalysis_mentalhealth`
+
    3. Install dependencies:
-'''
-pip install -r requirements.txt
-'''
+
+`pip install -r requirements.txt`
+
    4. Run the application:
-'''
-python main.py
-'''
+
+`python main.py`
+
 
 
 ### Contact
