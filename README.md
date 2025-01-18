@@ -5,31 +5,21 @@ Mental health is an increasingly critical issue in today's fast-paced, interconn
 ## Features
 
    - **Sentiment Classification**: Classifies tweets into positive, neutral, or negative sentiments.
+   - **Mental Health Risk Assessment**: Evaluates risk levels (low, moderate, high) based on linguistic patterns and keyword spotting.
+   - **Topic Identification**: Identifies specific mental health concerns like anxiety, depression, or suicidal ideation.
+   - **Time-Series Analysis**: Tracks trends over weeks or months, uncovering the impact of global or personal events on mental health.
+   - **Geolocation Insights**: Reveals regional variations in mental health challenges, providing valuable data for policymakers and healthcare organizations.
+   - **Resource Suggestions**: Suggests mental health resources and helplines for individuals based on the analysis.
 
- # Mental Health Risk Assessment: 
- ### Evaluates risk levels (low, moderate, high) based on linguistic patterns and keyword spotting.
+## Objectives
 
-## Topic Identification:
-Identifies specific mental health concerns like anxiety, depression, or suicidal ideation.
-
-## Time-Series Analysis: 
-Tracks trends over weeks or months, uncovering the impact of global or personal events on mental health.
-
-## Geolocation Insights: 
-Reveals regional variations in mental health challenges, providing valuable data for policymakers and healthcare organizations.
-
-## Resource Suggestions: 
-Suggests mental health resources and helplines for individuals based on the analysis.
-
-# Objectives
-
-Public Sentiment Analysis: Highlight overall public sentiment and mental health trends.
-
-Early Intervention: Identify concerning patterns to enable timely intervention.
-
-Awareness Creation: Promote mental health advocacy and education.
-
-Actionable Insights: Empower stakeholders like policymakers, healthcare providers, and communities.
+   -**Public Sentiment Analysis**: Highlight overall public sentiment and mental health trends.
+   
+   -**Early Intervention**: Identify concerning patterns to enable timely intervention.
+   
+   -**Awareness Creation**: Promote mental health advocacy and education.
+   
+   -**Actionable Insights**: Empower stakeholders like policymakers, healthcare providers, and communities.
 
 Data Privacy and Ethics
 
