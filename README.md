@@ -2,9 +2,9 @@
 
 Mental health is an increasingly critical issue in today's fast-paced, interconnected world. Social media platforms, like Twitter, serve as digital diaries for millions, where individuals express their thoughts, emotions, and struggles in real time. This project leverages sentiment analysis and natural language processing (NLP) to understand and monitor mental health trends through tweets.
 
-# Features
+## Features
 
-Sentiment Classification: Classifies tweets into positive, neutral, or negative sentiments.
+   - **Sentiment Classification**: Classifies tweets into positive, neutral, or negative sentiments.
 
  # Mental Health Risk Assessment: 
  ### Evaluates risk levels (low, moderate, high) based on linguistic patterns and keyword spotting.
