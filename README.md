@@ -1,22 +1,27 @@
-Sentiment Analysis for Mental Health Monitoring
+# Sentiment Analysis for Mental Health Monitoring
 
 Mental health is an increasingly critical issue in today's fast-paced, interconnected world. Social media platforms, like Twitter, serve as digital diaries for millions, where individuals express their thoughts, emotions, and struggles in real time. This project leverages sentiment analysis and natural language processing (NLP) to understand and monitor mental health trends through tweets.
 
-Features
+# Features
 
 Sentiment Classification: Classifies tweets into positive, neutral, or negative sentiments.
 
-Mental Health Risk Assessment: Evaluates risk levels (low, moderate, high) based on linguistic patterns and keyword spotting.
+ # Mental Health Risk Assessment: 
+ ### Evaluates risk levels (low, moderate, high) based on linguistic patterns and keyword spotting.
 
-Topic Identification: Identifies specific mental health concerns like anxiety, depression, or suicidal ideation.
+## Topic Identification:
+Identifies specific mental health concerns like anxiety, depression, or suicidal ideation.
 
-Time-Series Analysis: Tracks trends over weeks or months, uncovering the impact of global or personal events on mental health.
+## Time-Series Analysis: 
+Tracks trends over weeks or months, uncovering the impact of global or personal events on mental health.
 
-Geolocation Insights: Reveals regional variations in mental health challenges, providing valuable data for policymakers and healthcare organizations.
+## Geolocation Insights: 
+Reveals regional variations in mental health challenges, providing valuable data for policymakers and healthcare organizations.
 
-Resource Suggestions: Suggests mental health resources and helplines for individuals based on the analysis.
+## Resource Suggestions: 
+Suggests mental health resources and helplines for individuals based on the analysis.
 
-Objectives
+# Objectives
 
 Public Sentiment Analysis: Highlight overall public sentiment and mental health trends.
 
