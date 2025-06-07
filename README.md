@@ -1,6 +1,6 @@
 # Sentiment Analysis for Mental Health Monitoring
 
-Mental health is an increasingly critical issue in today's fast-paced, interconnected world. Social media platforms, like Twitter, serve as digital diaries for millions, where individuals express their thoughts, emotions, and struggles in real time. This project leverages sentiment analysis and natural language processing (NLP) to understand and monitor mental health trends through tweets.
+Mental health is an increasingly critical issue in today's fast-paced, interconnected world. Social media platforms, like X, serve as digital diaries for millions, where individuals express their thoughts, emotions, and struggles in real time. This project leverages sentiment analysis and natural language processing (NLP) to understand and monitor mental health trends through tweets.
 
 ## Features
 
@@ -38,7 +38,7 @@ Privacy is a cornerstone of this initiative. All data is anonymized and processe
 
 ## Methodology
 
-   1. **Data Collection**: Use Twitter API to collect public tweets (anonymized).
+   1. **Data Collection**: Use X API to collect public tweets (anonymized).
    
    2. **Preprocessing**: Clean and preprocess text data (removal of stopwords, tokenization, etc.).
    
